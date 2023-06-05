@@ -14,6 +14,7 @@ Started in 1996, the company's flagship brand ‘Club Mahindra’, today has ove
 * In the left sidebar,click the name of the workflow you want to run.
 * Above the list of workflow runs,select Run workflow. 
 * Use the Branch dropdoen to select the workflow's branch, and type the input parameters.Click Run workflow. 
+#### The application will now be accessible at ->https://jhunulata123.github.io/club_mahindra.github.io/
 ## Help
 Any advice for common problemes or issues.
 ## Acknowledgment
